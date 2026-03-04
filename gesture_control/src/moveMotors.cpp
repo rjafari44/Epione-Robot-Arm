@@ -37,7 +37,7 @@ void stopMotors() {
     myServo.write(servoPosition); // hold servo in place
   } else {
     for (int i = 0; i < 5; i++) {
-      motors[i].stop(); // stop each stepper motor
+      motors[i].moveTo(motors[i].currentPosition()); // stop each stepper motor
     }
   }
 }
