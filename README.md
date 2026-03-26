@@ -7,7 +7,7 @@ The system is divided into four primary sections:
 - [Mechanical](#mechanical)
 - [Electrical](#electrical)
 - [Programming](#programming)
-- [How to Run](#how-to-run)
+- [Usage](#usage)
 
 A Bill of Materials (BOM) is not included here, as the official ARCTOS BOM covers the majority of required components. This repository contains only files and documentation original to our group, including custom CAD files and wiring schematics.
 
@@ -188,7 +188,7 @@ Python 3.10.x is required. A text file containing the required Python libraries 
 
 ---
 
-## How to Run
+## Usage
 
 This project uses both **Python** and **Arduino CLI** on Linux, I do not have documentation for other operating systems. To simplify compilation and upload, I have created shell scripts. Running these scripts from the CLI will automatically compile and upload the firmware to `/dev/ttyACM0`. If your board uses a different device port, you will need to manually update the Python code and the shell scripts to reflect the correct port. Also, each of the scripts are independent of each other, for the gesture control, upload the arduino code first then run the Python Script
 
