@@ -1,4 +1,4 @@
-#include "myheader.h"
+#include "config.h"
 
 // move the selected motor(s) or servo based on current mode and direction
 void moveMotors(int dir) {

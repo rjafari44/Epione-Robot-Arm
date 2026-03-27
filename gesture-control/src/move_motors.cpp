@@ -1,4 +1,4 @@
-#include "myheader.h"
+#include "config.h"
 
 // moving the motors, taking a set servo speed as input
 void moveMotors(int dir) {
