@@ -2,17 +2,26 @@
 
 An ARCTOS-based robotic arm featuring a custom end effector, custom wiring architecture, and dual-mode control software. This project was completed in collaboration with a group of students at my university, and it would not have been possible without their collective effort.
 
-The system is divided into four primary sections:
+The system is divided into five primary sections:
 
+- [Bill of Materials](#bill-of-materials)
 - [Mechanical](#mechanical)
 - [Electrical](#electrical)
 - [Programming](#programming)
 - [Usage](#usage)
 
-A Bill of Materials (BOM) is not included here, as the official ARCTOS BOM covers the majority of required components. This repository contains only files and documentation original to our group, including custom CAD files and wiring schematics.
-
-Image of robot arm:  
+### Image of Robot Arm:  
 ![Diagram](/assets/epione-robot-arm.jpg)
+
+---
+
+## Bill of Materials
+
+The official ARCTOS BOM covers the vast majority of required components and is maintained on the manufacturer's website with up-to-date part sourcing:
+
+**[View full BOM on arctosrobotics.com/bom/](https://arctosrobotics.com/bom/)**
+
+Any components unique to our build — including the custom end effector and wiring modifications — are detailed in the sections below.
 
 ---
 
