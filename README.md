@@ -21,7 +21,7 @@ The official ARCTOS BOM covers the vast majority of required components and is m
 
 **[View full BOM on arctosrobotics.com/bom/](https://arctosrobotics.com/bom/)**
 
-Any components unique to our build — including the custom end effector and wiring modifications — are detailed in the sections below.
+Any components unique to our build — including the custom end effector and wiring modifications — are detailed in the sections below. 
 
 ---
 
